@@ -3,4 +3,4 @@
 - this was like a coffe time project, so its all messed up, your contributions are welcome! 
 
 # Running
-to run, simple use `cargo run`
+Simply use `cargo run`
